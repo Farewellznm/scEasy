@@ -1,0 +1,12 @@
+Package: scEasy
+Title: Make single cell analysis easier.
+Version: 0.0.1
+Authors@R: 
+    person("Huisheng", "Liu", , "huishengliu@gmail.com", role = c("aut", "cre"))
+Description: The comprehensive single cell analysis pipelines for mutiple analysi work
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    Seurat
